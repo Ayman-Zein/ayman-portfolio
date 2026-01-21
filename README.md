@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Ayman Zein - Portfolio Website
 
-## Getting Started
+A modern, dark-themed portfolio website for Ayman Zein, Senior Front-End Engineer, built with Next.js 16 and Tailwind CSS.
 
-First, run the development server:
+## 🚀 Features
+
+- **Modern Dark Theme**: Sleek dark design with emerald green accents
+- **Fully Responsive**: Optimized for all device sizes (mobile, tablet, desktop)
+- **Smooth Animations**: Elegant fade-in and slide animations
+- **SEO Optimized**: Proper metadata and semantic HTML structure
+- **Fast Performance**: Built with Next.js 16 for optimal performance
+- **Interactive Navigation**: Smooth scroll navigation with active section tracking
+
+## 📋 Sections
+
+- **Hero Section**: Eye-catching introduction with stats (5+ years experience, 182+ projects)
+- **About**: Professional summary and expertise
+- **Experience**: Detailed work history from 2018-Present
+- **Skills**: Technical arsenal organized by category
+- **Contact**: Multiple ways to get in touch
+
+## 🛠️ Tech Stack
+
+- **Framework**: Next.js 16.1.4
+- **UI**: React 19.2.3
+- **Styling**: Tailwind CSS v4
+- **Language**: TypeScript
+- **Icons**: Inline SVG icons
+
+## 📦 Installation
 
 ```bash
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Build for production
+npm run build
+
+# Start production server
+npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📱 Responsive Design
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The website is fully responsive with breakpoints:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Mobile**: < 768px (mobile menu, stacked layout)
+- **Tablet**: 768px - 1024px
+- **Desktop**: > 1024px (sidebar layout, navigation dots)
 
-## Learn More
+## 🎯 Browser Support
 
-To learn more about Next.js, take a look at the following resources:
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📄 License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+© 2026 Ayman Zein. All Rights Reserved
 
-## Deploy on Vercel
+## 📞 Contact
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Email**: ayman.zein.elbehairy@gmail.com
+- **Phone**: +201148131269
+- **LinkedIn**: [linkedin.com/in/ayman-zein](https://www.linkedin.com/in/ayman-zein/)
+- **GitHub**: [github.com/Ayman-Zein](https://github.com/Ayman-Zein/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+Built with ❤️ using Next.js and Tailwind CSS
